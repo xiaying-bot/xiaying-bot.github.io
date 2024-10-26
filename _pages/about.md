@@ -7,5 +7,4 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I just graduated from Shanghai Jiao Tong University. Now I work as an llm algorithm engineer. 
-
+I just graduated from Shanghai Jiao Tong University. Now I work as a large language model algorithm engineer. 
